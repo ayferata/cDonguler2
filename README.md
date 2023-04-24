@@ -5,9 +5,11 @@ public class EbobEkok {
 
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
-        System.out.println("1.sayıyı giriniz:");
+       
+        System.out.println("1.sayıyı giriniz:" );
         int n1=input.nextInt();
-        System.out.println("2.sayıyı giriniz:");
+        
+        System.out.println("2.sayıyı giriniz:" );
         int n2=input.nextInt();
         int i=1,ebob=1,x=1;
         while (i<=n1){
