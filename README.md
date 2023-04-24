@@ -18,10 +18,12 @@ public class EbobEkok {
                 ebob=i;
             }
             i++;
+            
         }
         System.out.println("EBOB:"+ebob);
         while(x<=(n1*n2)){
             x++;
+            
             if(x%n1==0 && x%n2==0){
                 System.out.println("EKOK:"+x);
                 break;
