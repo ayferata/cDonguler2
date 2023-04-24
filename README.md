@@ -27,6 +27,7 @@ public class EbobEkok {
             if(x%n1==0 && x%n2==0){
                 System.out.println("EKOK:"+x);
                 break;
+                
             }
         }
     }
