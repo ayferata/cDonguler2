@@ -1,5 +1,5 @@
 # cDonguler2
-package CDonguler;
+
 import java.util.Scanner;
 public class Odev26EbobEkok {
     public static void main(String[] args) {
