@@ -1,7 +1,8 @@
 # cDonguler2
 
 import java.util.Scanner;
-public class Odev26EbobEkok {
+public class EbobEkok {
+
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("1.sayıyı giriniz:");
