@@ -12,6 +12,7 @@ public class EbobEkok {
         System.out.println("2.sayıyı giriniz:" );
         int n2=input.nextInt();
         int i=1,ebob=1,x=1;
+        
         while (i<=n1){
             if(n1%i==0 && n2%i==0){
                 ebob=i;
